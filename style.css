@@ -28,7 +28,7 @@ header, footer, section {
 
 header {
     padding: 200px 0;
-    background: url(/courses/tms/hw_05_04/bootstrap/images/Cover.jpg);
+    background: url(/images/Cover.jpg);
     background-size:cover;
     background-position-y: center;
     background-position-x: center;
